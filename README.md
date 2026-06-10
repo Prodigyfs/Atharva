@@ -1,7 +1,7 @@
-#include <stdio.h>
-#include <conio.h>
-void main() {
-clrscr();
+    #include <stdio.h>
+    #include <conio.h>
+    void main() {
+    clrscr();
     int month;
     
     printf("Enter month number 1-12: ");
